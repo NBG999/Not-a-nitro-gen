@@ -2,6 +2,7 @@
 1. Clone the repo
    ```sh
    git clone https://github.com/NBG999/Not-a-nitro-gen.git
+   cd Not-a-nitro-gen-main
    ```
 2. Install Python packages
    ```sh
